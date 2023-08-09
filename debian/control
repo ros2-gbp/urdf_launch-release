@@ -1,0 +1,12 @@
+Source: ros-rolling-urdf-launch
+Section: misc
+Priority: optional
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-rolling-ament-cmake, ros-rolling-rviz-common, ros-rolling-rviz-default-plugins, ros-rolling-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-rolling-urdf-launch
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-rolling-joint-state-publisher, ros-rolling-joint-state-publisher-gui, ros-rolling-launch-ros, ros-rolling-robot-state-publisher, ros-rolling-rviz-common, ros-rolling-rviz-default-plugins, ros-rolling-rviz2, ros-rolling-xacro, ros-rolling-ros-workspace
+Description: Launch files for common URDF operations
