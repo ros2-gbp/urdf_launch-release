@@ -1,3 +1,26 @@
+## urdf_launch (jazzy) - 0.1.2-1
+
+The packages in the `urdf_launch` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release urdf_launch -y -r jazzy` on `Fri, 27 Feb 2026 18:43:50 -0000`
+
+The `urdf_launch` package was released.
+
+Version of package(s) in repository `urdf_launch`:
+
+- upstream repository: https://github.com/ros/urdf_launch.git
+- release repository: https://github.com/ros2-gbp/urdf_launch-release.git
+- rosdistro version: `0.1.1-3`
+- old version: `0.1.1-3`
+- new version: `0.1.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## urdf_launch (kilted) - 0.1.2-1
 
 The packages in the `urdf_launch` repository were released into the `kilted` distro by running `/usr/bin/bloom-release urdf_launch -y -r kilted` on `Fri, 27 Feb 2026 18:20:27 -0000`
